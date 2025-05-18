@@ -8,13 +8,13 @@ This project is part of the VR course and focuses on building a multimodal Visua
 
 ## Project Structure
 ```
-├── accuracy.ipynb # Notebook analyzing model accuracy
+├── accuracy.ipynb # Notebook to analyse the accuracy
 ├── baseline_models/ # Folder containing baseline model notebooks, results, and evaluation files
 │ ├── BLIP/
 │ ├── BLIP2/
 │ └── VILT/
 ├── data_curation/ # Data curation notebook and curated dataset CSV
-├── finetuned_model/ # Folder for fine-tuned models (to be populated)
+├── finetuned_model/ # Finetuned BLIP model using LORA
 └── README.md # Project README
 ```
 ---
